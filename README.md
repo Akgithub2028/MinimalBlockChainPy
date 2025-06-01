@@ -46,6 +46,6 @@ This process makes the blockchain tamper-resistant, as modifying a single block 
 
 This project demonstrates the core principles behind blockchain technology:
 - Tamper-proof data linking using cryptographic hashes
-- Transaction structure with sender, receiver, timestamp and amount
+- Transaction structure with sender, receiver and amount
 - Integrity checking via validation logic
 - Proof-of-Work to simulate mining
